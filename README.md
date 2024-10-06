@@ -57,7 +57,7 @@ This project is a smart CCTV system developed as part of a final project for a B
 - **Multi-Camera Support**: Extend the system to support multiple cameras.
 
 ## Contributors
-- **[Your Name]** - Project lead and developer.
+- **Naama Ben Yosef** - Project lead and developer.
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
