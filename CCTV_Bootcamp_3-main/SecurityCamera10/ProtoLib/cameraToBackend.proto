@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+
+package ProtoImage;
+
+service ImageTransfer {
+  rpc SendImage(ImageRequest) returns (ImageResponse);
+}
+
+
+message ImageRequest {
+  bytes data = 1;
+}
+
+message ImageResponse{
+  bool sucsses = 1;
+}
+
